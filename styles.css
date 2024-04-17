@@ -14,9 +14,15 @@ body{
 }
 .player_one{
 	/* height:100%; */
+	padding:0px;
+	background-color:rgb(255,255,255);
 	width:100%;
+	border-radius:0px;
 }
 .player_two{
+	background-color:rgb(255,255,255);
+	padding:0px;
+	border-radius:0px;
 	width:100%;
 }
 
